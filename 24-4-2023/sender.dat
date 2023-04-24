@@ -1,0 +1,9 @@
+For Developers: Enabling File Sharing
+
+As explained on the following article on StackOverflow:
+
+"You just have to set UIFileSharingEnabled (Application Supports iTunes file sharing) key in the info plist of your app. Here's a link for the documentation. Scroll down to the file sharing support part.
+
+You must also define CFBundleDisplayName (Bundle Display Name), if it isn't already there. More details here."
+
+[_stop server_]
